@@ -1,2 +1,3 @@
 # Fe-Sean-s-project
-tbc 
+
+## Following the Intro Tutorial 
